@@ -9,4 +9,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in//willi-roquel-b4112626a" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=williRR&show_icons=true&locale=en" alt="williRR" /></p>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@willirq/30-nites-of-code)  
+  ![@willirq #30NitesOfCode](https://www.codedex.io/api/petStatus?user=willirq)
