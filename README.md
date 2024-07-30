@@ -30,11 +30,5 @@
   </a>
 </p>
 
-<h2>#30NitesOfCode</h2>
-<p>
-  <a href="https://www.codedex.io/@willirq/30-nites-of-code" target="_blank">Check out my progress!</a>
-</p>
-<p>
-  <img src="https://www.codedex.io/api/petStatus?user=willirq" alt="@willirq #30NitesOfCode" />
-</p>
+
 
